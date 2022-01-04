@@ -1,6 +1,7 @@
 # CS300 Group Project Winter 2022
 
-##Group Members
+Group Members |
+---------------
 Alana Gilston
 Alex Harris
 Alissa Friel
